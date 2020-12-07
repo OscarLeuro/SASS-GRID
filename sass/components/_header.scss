@@ -1,0 +1,14 @@
+$btn1:red;
+$btn_color: white;
+
+
+@mixin botones {
+
+    background-color: $btn1;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    color: $btn_color;
+
+    
+}

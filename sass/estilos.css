@@ -1,1 +1,16 @@
-/* No CSS *//*# sourceMappingURL=estilos.css.map */
+.btn_main {
+  background-color: red;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  color: white;
+}
+
+.btn_2 {
+  background-color: red;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  color: white;
+}
+/*# sourceMappingURL=estilos.css.map */
